@@ -1,3 +1,7 @@
+
+<img width="1080" height="2400" alt="1000024987" src="https://github.com/user-attachments/assets/af9022b9-d278-47ea-892a-e8d516bccdaf" />
+<img width="1079" height="1763" alt="1000024988" src="https://github.com/user-attachments/assets/2177c365-0dbd-4222-b2a4-cfcc8d2a7cab" />
+
 # ⚡ Custom Adreno 640 GPU Driver
 
 > **Special Build & Optimized by AMINE** 🛠️
@@ -29,3 +33,13 @@ This module features a universal installer script that automatically adapts to y
 4. Select the downloaded `Custom-Adreno-640-Driver.zip` file.
 5. Wait for the automated flashing process to finish (The *Smart Shader Cleaner* will run automatically).
 6. **Reboot** your device to apply the new drivers. Enjoy!
+
+---
+
+## 🧪 How to Verify the Update
+
+To ensure the new drivers are successfully applied, you can use the following tools from the Google Play Store to check your GPU APIs version:
+
+* 📱 **[DevCheck Device & System Info](https://play.google.com/store/apps/details?id=flar2.devcheck):** Navigate to the **Hardware** tab to verify the current **OpenGL ES** version and general GPU details.
+* 🌋 **[Vulkan Hardware Capability Viewer](https://play.google.com/store/apps/details?id=de.saschawillems.vulkancapsviewer):** Use this to confirm the updated **Vulkan** API version (e.g., 1.1.295) and supported extensions.
+* ⚡ **[OpenCL Hardware Capability Viewer](https://play.google.com/store/search?q=OpenCL+Hardware+Capability+Viewer&c=apps):** Run this to check the active **OpenCL 3.0** profile and compute unit metrics.
