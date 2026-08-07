@@ -9,7 +9,6 @@ Custom Adreno 640 GPU driver for Snapdragon 855 / 860 (Magisk / KernelSU / APatc
 - **Stable & Safe Integration:** Prevents bootloops and UI crashes.
 - **Updated Graphics Libraries:** Vulkan 1.1.295, OpenGL 3.2, OpenCL 3.0.
 - **Smart Shader Cache Cleaner:** Clears outdated cache automatically.
-- **APatch & Magisk Support:** Fully compatible with major root solutions.
 
 ---
 > **Special Build by AMINE** 🛠️
