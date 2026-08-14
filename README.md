@@ -2,11 +2,11 @@
 <img width="1080" height="2400" alt="1000024987" src="https://github.com/user-attachments/assets/af9022b9-d278-47ea-892a-e8d516bccdaf" />
 <img width="1079" height="1763" alt="1000024988" src="https://github.com/user-attachments/assets/2177c365-0dbd-4222-b2a4-cfcc8d2a7cab" />
 
-# ⚡ Custom Adreno 640 GPU Driver
+# ⚡ Custom Adreno 600 GPU Driver
 
 > **Special Build & Optimized by AMINE** 🛠️
 
-A high-performance custom Adreno 640 GPU driver tailored for **Snapdragon 855 / 860** devices. This module is engineered with strict SELinux rules to maximize gaming performance while ensuring rock-solid system stability.
+A high-performance custom Adreno 640 GPU driver tailored for **Snapdragon 855 / 860 / 865** devices. This module is engineered with strict SELinux rules to maximize gaming performance while ensuring rock-solid system stability.
 
 ## 🚀 Key Features
 
